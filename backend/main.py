@@ -6,3 +6,11 @@ import os
 
 app = FastAPI()
 
+# Models
+class EnhanceRequest(BaseModel):
+    section: str
+    content: str
+
+class SaveResumeRequest(BaseModel):
+    resume: dict
+
