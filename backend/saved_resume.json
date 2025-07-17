@@ -1,9 +1,17 @@
 {
-  "name": "Akshay Kuma",
-  "email": "akshay@google.com",
+  "name": "Akshay Kumar",
+  "summary": "[Improved] Motivated software developer with internship experience in React and FastAPI.",
+  "experience": [
+    "[Improved] Intern at ABC Corp",
+    "[Improved] Freelance Web Dev"
+  ],
+  "education": [
+    "[Improved] MCA - Modern College Pune",
+    "[Improved] BCA - XYZ College Pune"
+  ],
   "skills": [
-    "Python",
-    "React",
-    "Tailwind"
+    "[Improved] React",
+    "[Improved] JavaScript",
+    "[Improved] Python"
   ]
 }
